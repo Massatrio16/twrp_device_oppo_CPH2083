@@ -16,4 +16,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-	$(LOCAL_DIR)/omni_CPH2083.mk
+	$(LOCAL_DIR)/twrp_CPH2083.mk
